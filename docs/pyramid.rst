@@ -43,7 +43,7 @@ Main Documentation
   <http://media.readthedocs.org/epub/pyramid/1.0-branch/pyramid.epub>`_) - narrative and API
   documentation for Pyramid's 1.0 version.
 
-* `Pyramid development documentation </projects/pyramid/en/latest/>`_ - narrative
+* `Pyramid development documentation </projects/pyramid/en/master/>`_ - narrative
   and API documentation for Pyramid's unreleased in-development version.
 
 * `The Pyramid Tutorials
